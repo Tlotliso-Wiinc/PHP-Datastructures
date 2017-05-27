@@ -1,0 +1,13 @@
+{
+    "autoload": {
+    	"psr-4": {
+    		"LinkedLists\\": "LinkedLists",
+    		"Interfaces\\": "Interfaces",
+    		"LinearStructures\\": "LinearStructures",
+    		"Trees\\": "Trees",
+    		"OrderedStructures\\": "OrderedStructures",
+    		"Maps\\": "Maps",
+            "Graphs\\": "Graphs"
+    	}
+    }
+}
